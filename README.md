@@ -2,8 +2,8 @@
 
 ## How to run test
 1. install requirements ```pip install requirements.txt```
-2. install prefer webdriver and put execute file to Python\Scripts
-3. change ${browser} in .robot to prefer webdriver (i.e., edge, firefox, chrome, ie, Opera, safari)
+2. install preferred webdriver and put execute file to Python\Scripts
+3. change ${browser} in .robot to preferred webdriver (i.e., edge, firefox, chrome, ie, Opera, safari)
 4. run Register.robot ```robot Register.robot```
 5. run Test.robot ```robot Test.robot```
 
